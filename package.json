@@ -1,0 +1,18 @@
+{
+  "name": "chatterbox",
+  "version": "1.0.0",
+  "description": "Real time chatting with use of sockets",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Hemant Gurung (Pesen)",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "moment": "^2.29.3",
+    "socket.io": "^4.5.0"
+  }
+}
