@@ -1,0 +1,114 @@
+.form-button {
+  margin-top: 20px;
+}
+
+.front-form {
+  width: 40%;
+  margin: auto;
+  margin-top: 100px;
+  background-color: rgb(209, 115, 233);
+}
+
+.fill-form {
+  background-color: rgb(178, 154, 221);
+  font-size: 20px;
+}
+.ip-field {
+  width: 50%;
+  margin: auto;
+}
+
+.long-button {
+  margin-top: 20px;
+  margin-left: 137px;
+  padding-bottom: 10px;
+}
+
+/*room vitra*/
+
+.main-chat {
+  width: 80%;
+  background-color: rgb(95, 64, 107);
+  margin: auto;
+}
+.top {
+  margin-top: 80px;
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+}
+
+.side-main-container {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+}
+
+.sidenav {
+  padding: 20px 20px 60px;
+  overflow-y: scroll;
+  background-color: rgb(235, 146, 243);
+}
+
+.chat-panel {
+  padding: 50px;
+  height: 500px;
+  overflow-y: scroll;
+  background-color: rgb(241, 230, 241);
+}
+
+.leave-btn {
+  background-color: rgb(129, 129, 129);
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+
+  padding: 5px 15px;
+}
+
+.chat-form-container {
+  padding: 20px;
+}
+
+.sidenav-head {
+  margin-bottom: 15px;
+}
+
+#room-name {
+  width: 65%;
+  margin: auto;
+  font-size: 25px;
+  background-color: rgb(73, 5, 70);
+  color: rgb(255, 255, 255);
+  padding: 15px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.user-title {
+  margin-bottom: 15px;
+}
+
+li {
+  padding: 10px 0;
+  font-size: 20px;
+}
+
+.message {
+  padding: 15px;
+  margin-bottom: 15px;
+  background-color: rgb(206, 202, 202);
+  border-radius: 7px;
+}
+
+.meta {
+  color: blue;
+}
+span {
+  font-weight: 600;
+}
+
+p {
+  margin: 0 !important;
+}
