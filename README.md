@@ -29,3 +29,5 @@ Open terminal
   
 
 ```
+
+In the browser, visit localhost:3000
