@@ -30,4 +30,4 @@ Open terminal
 
 ```
 
-In the browser, visit localhost:3000
+Go to localhost:3000 in the browser.
